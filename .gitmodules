@@ -1,0 +1,6 @@
+[submodule "cashful-api"]
+	path = cashful-api
+	url = https://github.com/Cashful-Co/cashful-api
+[submodule "cashful-client-dashboard"]
+	path = cashful-client-dashboard
+	url = https://github.com/Cashful-Co/cashful-client-dashboard
