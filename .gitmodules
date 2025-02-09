@@ -4,3 +4,12 @@
 [submodule "cashful-client-dashboard"]
 	path = cashful-client-dashboard
 	url = https://github.com/Cashful-Co/cashful-client-dashboard
+[submodule "cashful-widget"]
+	path = cashful-widget
+	url = https://github.com/Cashful-Co/cashful-widget
+[submodule "cashful-bots"]
+	path = cashful-bots
+	url = https://github.com/Cashful-Co/cashful-bots
+[submodule "cashful-internal-dashboard"]
+	path = cashful-internal-dashboard
+	url = https://github.com/Cashful-Co/cashful-internal-dashboard
